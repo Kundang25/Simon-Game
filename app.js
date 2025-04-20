@@ -57,7 +57,7 @@ function checkAns(idx){
         document.querySelector("body").style.backgroundColor="Red";
         setTimeout(function(){
             document.querySelector("body").style.backgroundColor="white";
-        },150);
+        },550);
         reset();
     }
 }
